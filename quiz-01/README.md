@@ -1,15 +1,4 @@
-# Quiz 01
+# Quiz 01 - BankAccount Solution
 
-## What the quiz asked
-
-Write a Python function called add_numbers(a, b) that returns the sum of two numbers.
-
-## How to run
-
-Run:
-
-python3 solution.py
-
-## Sample output
-
-5
+## How to Run
+To run the tests from inside the `quiz-01` directory:
